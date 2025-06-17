@@ -2,7 +2,7 @@
 `npm install`
 
 # 2. 配置环境变量
-### 编辑 `.env.local` 文件
+### 编辑文件 `.env.local`
 
 ```
   NEXT_PUBLIC_SUPABASE_URL=https://wrxeeycsukptnekpgblj.supabase.co
@@ -12,4 +12,4 @@
 # 3. 项目启动
 ` npm run dev `
 
-项目将在`http://localhost:3000`启动
+项目将在 http://localhost:3000 启动。
