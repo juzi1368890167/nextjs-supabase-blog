@@ -12,4 +12,4 @@
 # 3. 项目启动
 ` npm run dev `
 
-项目将在 `http://localhost:3000` 启动。
+项目将在`http://localhost:3000`启动。
